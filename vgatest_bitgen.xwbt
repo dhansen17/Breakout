@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\dhansen17\Desktop\Final_Project\vga1\vga_test\vgatest.ncd
+OUTFILE=C:\Users\dhansen17\Desktop\Final_Project\vga1\vga_test\vgatest.bit
+FAMILY=Spartan3
+PART=xc3s1000-4ft256
+WORKINGDIR=C:\Users\dhansen17\Desktop\Final_Project\vga1\vga_test
+LICENSE=WebPack
+USER_INFO=177065750_177065752_0_914
